@@ -1,4 +1,4 @@
-# Pedido de namoro
+# Presente de 2 anos
 Este é um site feito puramente em HTML, CSS e JavaScript que fiz de presente de 2 anos para minha namorada.
 
 Ele foi pensado para ser aberto no celular, e idealmente com o Chrome.
